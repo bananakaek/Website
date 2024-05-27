@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, Sans-serif;
+    scroll-behavior: smooth;
+}
+  
+  
+  body{
+    background-image: url("n-n-BtbjCFUvBXs-unsplash.jpg");
+       background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        background-size: cover;
+       }
+
+
+    header{
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        padding: 20px 120px;
+        background: #1b1a26;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        z-index: 100;
+    }
+
+  h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, Sans-serif;
+    color: #1b1a26;
+    top: 100px;
+    font-size: 50px;
+    font-weight: 700;
+  }
+  h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, Sans-serif;
+    color: #1b1a26;
+    font-weight: 500;
+  }
+  ul{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, Sans-serif;
+    color: #1b1a26;
+  }
+  
+  img{
+    position: relative;
+    margin-left: 27%;
+    margin-top: 100px;
+  }
+  
+  .m1{
+    position: relative;
+    margin-left: 440px;
+  }
+  
+  h1{
+    position: relative;
+    margin-left: 510px;
+    font-size: xx-large;
+  }
+  
+  .hi{
+    position: relative;
+    margin-left: 27%;
+  }
+  
+  div{
+    position: relative;
+    margin-left: 250px;
+    margin-top: 100px;
+  }
+
+  .did2{
+    position: fixed;
+    margin-top: 100px;
+  }
+  
+  #d1{
+    position: relative;
+    margin-left: 50%;
+  }
+  
+  #d2{
+    position: relative;
+    margin-left: 50%;
+    margin-bottom: 30px;
+  }
+
+  #d3{
+    position: relative;
+    margin-left: 38%;
+  }
+  
+  #header{
+    height: 70px;
+    background-color: #1b1a26;
+  }
+
+  .logo{
+    font-size: 25px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  nav a{
+    font-size: 18px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 35px;
+    transition: .3s;
+  }
+
+  nav a:hover,
+  nav a.active{
+    color: #7b98ed;
+    
+  }
+
+  .videowrap{
+    position: relative;
+    right: 65px;
+  }
+ 
+  .fa-brands{
+    color: red;
+    font-size: 50px;
+    position: relative;
+    left: 39%;
+  }
